@@ -1,1 +1,3 @@
-theme: minima
+title: Mi sitio minimalista
+description: Sitio web personal usando GitHub Pages y Jekyll
+theme: jekyll-theme-minimal
